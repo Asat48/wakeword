@@ -55,7 +55,7 @@ Double-buffering to ensure smooth audio capture
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/Asat48/wakeword.git
+git clone https://github.com/aaryansmanoj/wakeword.git
 ```
 
 2. **Open in Arduino IDE:**
